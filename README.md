@@ -19,11 +19,11 @@ An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) foll
 
 ### 1) Get all the dependencies
 - [AwesomeWM](https://awesomewm.org/) as the window manager
-- [Roboto](https://fonts.google.com/specimen/Roboto) as the **font**
-- [Rofi](https://github.com/DaveDavenport/rofi) for the app launcher
+- [Mononoki](https://github.com/madmalik/mononoki) as the **font**
+- [Dmenu](https://tools.suckless.org/dmenu/) for the app launcher
 - [Compton fork](https://github.com/tryone144/compton) for the compositor (blur and animations)
 - [i3lock-fancy](https://github.com/meskarune/i3lock-fancy) the lockscreen application
-- [xclip](https://github.com/astrand/xclip) for copying screenshots to clipboard
+- [scrot](https://phab.enlightenment.org/diffusion/ESVN/browse/trunk/misc/scrot;35502) for copying screenshots to clipboard
 - __gnome-keyring-daemon__ and a __policykit-agent__ (by default policykit-1-gnome is enabled)
 - (Optional) __qt5-styles-gtk2__ or __qt5-styles-plugins__ for making QT and KDE applications look the same as gnome applications
 - (Optional) [Materia](https://github.com/nana-4/materia-theme) as GTK theme
