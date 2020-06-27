@@ -5,7 +5,7 @@ local gears = require('gears')
 local dpi = require('beautiful').xresources.apply_dpi
 local theme = {}
 theme.icons = theme_dir .. '/icons/'
-theme.font = 'Roboto medium 10'
+theme.font = 'mononoki medium 10'
 
 -- Colors Pallets
 
